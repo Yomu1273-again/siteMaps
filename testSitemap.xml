@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/battery-status.htm</loc>
+    </url>
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/bluetooth.htm</loc>
+    </url>
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/cadastral-point-tolerance-checks.htm</loc>
+    </url>
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/cadastral-xml-norway-setup.htm</loc>
+    </url>
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/cadastral-xml-setup.htm</loc>
+    </url>
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/cloud-sync.htm</loc>
+    </url>
+    <url>
+        <loc>https://help.fieldsystems.trimble.com/trimble-access/latest/en/cloud-sync-settings.htm</loc>
+    </url>
+</urlset>
